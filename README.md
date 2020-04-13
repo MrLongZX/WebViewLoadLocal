@@ -6,6 +6,8 @@
   * 2、https://github.com/ShingoFukuyama/WKWebViewTips/blob/master/README.md
 
   * 3、http://blog.csdn.net/xj_love/article/details/52062874
+  
+  *4、https://www.cnblogs.com/yajunLi/p/9641075.html
 
 ## 一、UIWebView加载本地资源   (资源文件可以放到工程目录下也可以放到沙盒里面)
 ```objectivec
